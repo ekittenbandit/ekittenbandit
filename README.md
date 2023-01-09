@@ -1,1 +1,1 @@
-<img src="discordicon.png" alt="Discord">
+<img src="discordicon.png" alt="discordicon" width="200" height="100">
