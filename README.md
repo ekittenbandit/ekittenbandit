@@ -1,3 +1,11 @@
-<img src="discordicon.png" alt="discordicon" width="500" height="500">
-<a href="https://google.com">Visit Google</a>
+<style>
+    button:hover {
+      outline: 1px dashed #999;
+    }
+  </style>
 
+<a href="https://discord.com/users/1025870089112780810">
+    <button style="background-color: transparent; border: none">
+      <img src="discordicon.png" alt="Discord logo" height="100">
+    </button>
+  </a>
